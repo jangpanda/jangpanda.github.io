@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: 알고리즘
+comments: false
+---
 
 # 알고리즘 목록(수정중)
 
