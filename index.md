@@ -1,1 +1,5 @@
-## Index Page
+# 장판다의 블로그
+
+## [알고리즘(algorithm)](jangpanda.github.com/categories/algorithm)
+
+
