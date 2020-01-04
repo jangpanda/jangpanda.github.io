@@ -10,6 +10,7 @@
 
 ## 동적계획법(DP)
 ### 피보나치수열
+#### 성능 : O(n)
 ### 연쇄행렬곱셈문제
 ### 스트링편집거리(Levenshtein Distance, Edit Distance)
 ### 플로이드
