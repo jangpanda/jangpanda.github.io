@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Friday Theme            # Site title
-name:             Friday Theme            # Your name
+title:            장판다의 블로그            # Site title
+name:             장판다의 블로그            # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire

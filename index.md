@@ -1,29 +1,24 @@
 # 장판다의 블로그
 
-## 이론 
+---
+## 1.CS
 
 ### [알고리즘(algorithm)](/categories/algorithm)
-
-
-## Backend
+---
+## 2.Backend
 
 ### java
 
 ### spring framework
 
-### node.js
-
 ### 젠킨스(jenkins)
 
-### db
-
-
-## Frontend
-
+---
+## 3.Frontend
 ### javascript
 
-### jquery
-
-### vue.js
+### [vue.js](/categories/vuejs)
 
 ### webpack
+
+### node.js
