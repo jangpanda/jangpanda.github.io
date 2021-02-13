@@ -1,6 +1,9 @@
 # 장판다의 블로그
 
-### 수정중
+### [자바스터디](/_posts/java/20210213_01_jvm.html)
+
+### [자바스터디](/_posts/2020-03-02-friday-theme.carousel)
+
 <!--
 ## 1.CS
 
