@@ -15,6 +15,7 @@ avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 # site under a subdir, like for this GitHub Pages deployment as a project site.
 baseurl: "https://jangpanda.github.io"
 
+
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
 
